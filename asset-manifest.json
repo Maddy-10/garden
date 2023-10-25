@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1c7e5f6b.css",
+    "main.js": "./static/js/main.2a5ec8c9.js",
+    "static/js/787.518cc128.chunk.js": "./static/js/787.518cc128.chunk.js",
+    "static/media/Watering.png": "./static/media/Watering.0d6075c225d4a43eb808.png",
+    "static/media/the_garden.png": "./static/media/the_garden.1a9ba7e142362f706b3b.png",
+    "static/media/jungle.png": "./static/media/jungle.fd0c93648a1df291730f.png",
+    "static/media/falls1.jpg": "./static/media/falls1.83e49f1c9cb26cc169b2.jpg",
+    "static/media/jungleman.avif": "./static/media/jungleman.cd3ca0c99ce88c9f911d.avif",
+    "static/media/plant.avif": "./static/media/plant.8f3e0c411f547e21ae62.avif",
+    "index.html": "./index.html",
+    "main.1c7e5f6b.css.map": "./static/css/main.1c7e5f6b.css.map",
+    "main.2a5ec8c9.js.map": "./static/js/main.2a5ec8c9.js.map",
+    "787.518cc128.chunk.js.map": "./static/js/787.518cc128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c7e5f6b.css",
+    "static/js/main.2a5ec8c9.js"
+  ]
+}
